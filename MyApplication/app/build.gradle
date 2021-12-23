@@ -9,7 +9,7 @@ android {
         applicationId "com.sipro.myapplication"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 4
+        versionCode 5
         versionName "4"
 
         multiDexEnabled true
